@@ -1,0 +1,5 @@
+pip install tensorflow==2.15
+pip install numpy==1.25.2
+pip install pandas==2.0.3
+pip install opencv-python==4.8.0.76
+pip install scikit-learn==1.2.2
