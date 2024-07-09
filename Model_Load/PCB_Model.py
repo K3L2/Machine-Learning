@@ -62,4 +62,4 @@ class Model_load:
         # label_class로 되돌리기
         predicted_label = self.reverse_class_dict[predicted_class_index]
 
-        return predicted_label
+        return str(predicted_label).zfill(2)
